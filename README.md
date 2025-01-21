@@ -1,2 +1,2 @@
 # Geeks
-una idea de tienda de geeks para alura.
+Una idea de tienda de geeks para alura.
